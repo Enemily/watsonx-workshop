@@ -9,21 +9,22 @@ Playing in the Prompt Lab showcases only part of watsonx.ai’s full potential. 
 ![project-list](../lab-0/images/dsu-project.png)
 
 The first thing you land on is the Overview page. This records some helpful information about the project, including how many tokens, CUH, and resource units we mentioned when dicussing [pricing tiers](../lab-1/pricing.md).
+
 ![overview](./images/overview.png)
 
 ## 4: Click on the `Assets` tab. 
 ![assets](./images/assets.png)
 
 ## 5. Import notebook
-Download the notebook (here) and import it.
+Download the notebook [here](./watson-studio-notebook.ipynb) and import it.
 
-### Click *New asset*
+### Click *New asset*.
 ![new-asset](./images/new-asset.png)
 
-### Click *Work with data and models in Python or R notebooks*
+### Click *Work with data and models in Python or R notebooks*.
 ![work-with-models](./images/work-with-models.png)
 
-### Name it as `<first_name last_name>` and upload the notebook
+### Name it as *<first_name last_name>* and upload the notebook.
 ![import](./images/import.png)
 
 You can now work on the notebook!
