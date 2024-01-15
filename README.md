@@ -13,7 +13,7 @@ Please see the agenda below for a high-level overview.
 ## Agenda
 | **Time**        | **Topic** |
 |-----------------|-------------------|
-| 15 mins  | Lab 0: <br>[Setup Your Laptop Environment](./self-guided-labs/lab-0)<br><br>[Intro to Prompt Engineering](https://ibm.box.com/s/acqea8ukzmgzdel7gxp2fcrnqm8p7vvp)<br><br>[Prompt Engineering Use Cases](./prompt-engineering-use-cases.md) |  
+| 15 mins  | Lab 0: <br>[Setup Your Laptop Environment](./self-guided-labs/lab-0)<br><br>[Prompt Engineering Use Cases](./prompt-engineering-use-cases.md) |  
 | 30 mins  | Lab 1: <br>[Intro Prompt Engineering Using watsonx.ai Prompt Builder](./self-guided-labs/lab-1) |  
 | 90 mins (take-home, optional)  | Lab 2: <br>[Advanced Prompt Engineering Challenge](./self-guided-labs/lab-2) |  
 
@@ -23,11 +23,11 @@ This workshop provided a brief introduction to watsonx.ai’s basic features. Af
 
 | **Time**        | **Topic** |
 |-----------------|-------------------|
-| 15 mins  | Lab 3: [Laptop Environment Setup](./self-guided-labs/lab-03-laptop-environment-setup) | 
-| 60 mins  | Lab 4: [Langchain Prompt Templates](./self-guided-labs/lab-03-langchain-prompt-template) | 
-| 60 mins  | Lab 5: [watsonx.ai and Langchain](./self-guided-labs/lab-05-watsonxai-and-langchain) | 
-| 60 mins  | Lab 6: [Retrieval Augmented Generation (RAG) for Contextual Search](./self-guided-labs/lab-06-retrieval-agumented-generation) |
-| 30 mins  | Lab 7: [watsonx.ai Demo in Streamlit](./self-guided-labs/lab-07-watsonxai-demo-with-streamlit) | 
+| 15 mins  | Lab 3: [Laptop Environment Setup](./self-guided-labs/lab-3) | 
+| 60 mins  | Lab 4: [Langchain Prompt Templates](./self-guided-labs/lab-4) | 
+| 60 mins  | Lab 5: [watsonx.ai and Langchain](./self-guided-labs/lab-5) | 
+| 60 mins  | Lab 6: [Retrieval Augmented Generation (RAG) for Contextual Search](./self-guided-labs/lab-6) |
+| 30 mins  | Lab 7: [watsonx.ai Demo in Streamlit](./self-guided-labs/lab-7) | 
 
 ## Further Resources
 | **Topic**        | **Resources** |
@@ -36,4 +36,4 @@ This workshop provided a brief introduction to watsonx.ai’s basic features. Af
 | Demos   | [watsonx.ai](https://watsonx-ai-demo.c8f8f055.public.multi-containers.ibm.com/)<br><br>[watsonx.data](https://mediacenter.ibm.com/media/watsonx.data+demoA+Get+started+with+watsonx.data/1_brvv64az) |  
 | watsonx Community  | [.ai, .data, .gov Discussions](https://community.ibm.com/community/user/watsonx/home)|  
 | Learning Assets  | [Generative AI with IBM](https://www.ibm.com/training/collection/generativeaiwithibm) |
-| Miscellaneous  | [Open Source and watsonx](https://www.youtube.com/watch?v=Cgiqx0pJuLo)<br><br>[IBM Foundation Model Library](https://www.ibm.com/products/watsonx-ai/foundation-models)<br><br>[Encoder and Decoder Models](https://magazine.sebastianraschka.com/p/understanding-encoder-and-decoder) |
+| Miscellaneous  | [Watson Machine Learning Python Library](https://pypi.org/project/ibm-watson-machine-learning/)<br><br>[IBM WML Foundation Models](https://ibm.github.io/watson-machine-learning-sdk/foundation_models.html) |
