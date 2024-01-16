@@ -38,5 +38,5 @@ Ensure that you can log into to watsonx.ai using this link: https://dataplatform
 ## Select `View all projects`.
 ![view-all-projects](./images/view-all-projects.png)
 
-You should see a project called `IBM-DSU` in the list. If so, you have successfully been invited to the project!
+You should see a project called `UCLA-DSU` in the list. If so, you have successfully been invited to the project!
 ![project-list](./images/dsu-project.png)
